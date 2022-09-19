@@ -1,7 +1,7 @@
 function Red() {
 
     return (
-        <div className="black">RED</div>
+        <div className="Red">RED</div>
     )
 }
 

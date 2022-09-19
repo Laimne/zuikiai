@@ -1,7 +1,7 @@
 function Blu() {
 
     return (
-        <div className="black">BLU</div>
+        <div className="Blu">BLU</div>
     )
 }
 
