@@ -4,7 +4,7 @@
  function Color({spalva, darVienas, das})
 
 {
-    return(<div> <h1 style={{color:spalva=1}}>Zebrai ir Bebrai!</h1>
+    return(<div> <h1 style={{color:spalva=1}}>GYVŪNŲ SĄRAŠAS SU APRAŠYMAIS</h1>
 
     </div>
         
